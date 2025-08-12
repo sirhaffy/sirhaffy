@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fredrik Svärd, i live in Åre, Sweden.
+My name is Fredrik Svärd, i live in Dalsjöfors, Sweden.
 
 - Worked as a Front-End Developer for over five years.
+- Worked as a 3D Generalist for 6 years.
 - 🌱 I’m currently studying Cloud Developer at Campus Mölndal.
-- ⚡ Love snowboarding and being outdoors.
+- ⚡ Loves snowboarding and technical challanges.
