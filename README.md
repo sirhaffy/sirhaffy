@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Fredrik Svärd, i live in Dalsjöfors, Sweden.
 
-- Worked as a Front-End Developer for five years.
+- I’m currently working at ATEA as a Cloud Solution Architect and DevOps Engineer.
+- Worked as a Web Developer for over five years.
 - Worked as a 3D Generalist for over six years.
-- 🌱 I’m currently studying Cloud Developer at Campus Mölndal.
-- ⚡ Loves snowboarding and technical challanges.
+- Loves exploring the outdoors, snowboarding and technical challenges.
